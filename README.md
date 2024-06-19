@@ -10,8 +10,8 @@
 ## Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado:
 
-### [Nombre del Proyecto 1](link al repositorio)
-Descripción breve del proyecto. ¿Qué tecnologías usaste? ¿Cuál fue el propósito del proyecto? ¿Por qué es interesante?
+## Festival de musica   [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
+A medida que estudio CSS, HTML y JS me gusta crear proyectos e irlos subiendo a github, Este es de mis proyectos favoritos. Es el primer proyecto en el que hago uso de Node.js y SASS, Es una simple pagina de presentacion de un evento
 
 ## Habilidades
 # Lenguajes de programacion:
