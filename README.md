@@ -10,12 +10,12 @@
 ## Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado:
 
-## Festival de musica   [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
+### Festival de musica   [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
 A medida que estudio CSS, HTML y JS me gusta crear proyectos e irlos subiendo a github, Este es de mis proyectos favoritos. Es el primer proyecto en el que hago uso de Node.js y SASS, Es una simple pagina de presentacion de un evento
 
 ## Habilidades
-# Lenguajes de programacion:
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+### Lenguajes de programacion:
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
@@ -29,8 +29,8 @@ A medida que estudio CSS, HTML y JS me gusta crear proyectos e irlos subiendo a 
 
 
 
-# Herramientas:
-- ![GitHub](https://img.icons8.com/ios-glyphs/50/FFFFFF/github.png)
+## Herramientas:
+![GitHub](https://img.icons8.com/ios-glyphs/50/FFFFFF/github.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2022.png)
 ![Visual Studio Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
