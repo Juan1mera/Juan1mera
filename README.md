@@ -10,7 +10,7 @@
 ## Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado:
 
-### Festival de musica   [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
+### [(Festival De Musica)](https://festival-musica-plantilla.vercel.app/)  [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
 A medida que estudio CSS, HTML y JS me gusta crear proyectos e irlos subiendo a github, Este es de mis proyectos favoritos. Es el primer proyecto en el que hago uso de Node.js y SASS, Es una simple pagina de presentacion de un evento
 
 ## Habilidades
