@@ -4,7 +4,6 @@
 ¡Bienvenido a mi cuenta de GitHub! Soy aspirante a desarrollador de software y desarrolador web con una pasión por la creacion de videojuegos, creacion de aplicaciones de escritorio y paginas web. Me encanta aprender y colaborar en proyectos interesantes.
 
 - 🌱 Actualmente estoy aprendiendo Python, JavaScript y C++/C#
-- 🤔 Estoy buscando ayuda para encontrar un puesto de trabajo y poder sostenerme el tiempo que me queda de carrera
 - 📫 Puedes contactarme atraves de Juan1Mera2Barrera@gmail.com
 
 ## Proyectos Destacados
