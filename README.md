@@ -1,7 +1,6 @@
 # ¡Hola Mundo!
 
-## Habilidades
-### Lenguajes de programacion:
+### 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
@@ -16,7 +15,7 @@
 
 
 
-## Herramientas:
+## 
 ![GitHub](https://img.icons8.com/ios-glyphs/50/FFFFFF/github.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2022.png)
