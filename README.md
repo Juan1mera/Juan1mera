@@ -1,16 +1,4 @@
-# ¡Hola Mundo! 👋 Soy Juan
-
-## Sobre mí
-¡Bienvenido a mi cuenta de GitHub! Soy aspirante a desarrollador de software y desarrolador web con una pasión por la creacion de videojuegos, creacion de aplicaciones de escritorio y paginas web. Me encanta aprender y colaborar en proyectos interesantes.
-
-- 🌱 Actualmente estoy aprendiendo Python, JavaScript y C++/C#
-- 📫 Puedes contactarme atraves de Juan1Mera2Barrera@gmail.com
-
-## Proyectos Destacados
-Aquí hay algunos proyectos en los que he trabajado:
-
-### [Festival De Musica](https://festival-musica-plantilla.vercel.app/)  [(link al repositorio)](https://github.com/Juan1mera/Festival-de-Musica)
-A medida que estudio CSS, HTML y JS me gusta crear proyectos e irlos subiendo a github, Este es de mis proyectos favoritos. Es el primer proyecto en el que hago uso de Node.js y SASS, Es una simple pagina de presentacion de un evento
+# ¡Hola Mundo!
 
 ## Habilidades
 ### Lenguajes de programacion:
