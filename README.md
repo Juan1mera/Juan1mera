@@ -20,6 +20,17 @@
 ![Visual Studio Code](https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png)
 ![Unity](https://img.icons8.com/ios-filled/50/FFFFFF/unity.png)
 
+# 🌟 Algunos de mis proyectos
 
+- [🌐 **Clon de la web de Zentry**](https://clon-zentry.vercel.app/)  
+  *Una réplica funcional de la web de Zentry.*
 
+- [💇‍♂️ **Web funcional de una peluquería**](https://demopeluqueriaweb.sfo1.zeabur.app/)  
+  *Sistema web para agendar citas y gestionar servicios de peluquería.*
+
+- [🐾 **Aplicación AmigoVet**](#)  
+  *App para llevar un registro sencillo de la salud de tus animales.* *(En desarrollo)*
+
+- [🖥️ **Mi Portafolio**](https://juanmera.site/)  
+  *Explora mis proyectos, habilidades y experiencia.*
 
