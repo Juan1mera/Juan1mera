@@ -28,7 +28,7 @@
 - [💇‍♂️ **Web funcional de una peluquería**](https://demopeluqueriaweb.sfo1.zeabur.app/)  
   *Sistema web para agendar citas y gestionar servicios de peluquería.*
 
-- [🐾 **Aplicación AmigoVet**](#)  
+- [🐾 **Aplicación AmigoVet**](https://amigo-vet-web.vercel.app/)  
   *App para llevar un registro sencillo de la salud de tus animales.* *(En desarrollo)*
 
 - [🖥️ **Mi Portafolio**](https://juanmera.site/)  
